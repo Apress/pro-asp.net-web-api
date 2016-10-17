@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="HttpErrorIntroSample.Global" Language="C#" %>

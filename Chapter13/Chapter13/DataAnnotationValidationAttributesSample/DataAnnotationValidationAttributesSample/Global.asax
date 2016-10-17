@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="DataAnnotationValidationAttributesSample.Global" Language="C#" %>

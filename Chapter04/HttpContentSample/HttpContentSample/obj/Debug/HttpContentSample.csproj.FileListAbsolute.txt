@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\HttpContentSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\HttpContentSample.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\System.Net.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\System.Net.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\obj\Debug\HttpContentSample.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\obj\Debug\HttpContentSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpContentSample\HttpContentSample\obj\Debug\HttpContentSample.pdb

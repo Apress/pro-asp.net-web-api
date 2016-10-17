@@ -1,0 +1,6 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\bin\Debug\HttpRequestMessageSample.exe.config
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\bin\Debug\HttpRequestMessageSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\bin\Debug\HttpRequestMessageSample.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\obj\Debug\HttpRequestMessageSample.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\obj\Debug\HttpRequestMessageSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpRequestMessageSample\HttpRequestMessageSample\obj\Debug\HttpRequestMessageSample.pdb

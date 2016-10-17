@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\CustomMessageHandlers.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\CustomMessageHandlers.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Web.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Web.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\obj\Debug\CustomMessageHandlers.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\obj\Debug\CustomMessageHandlers.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\obj\Debug\CustomMessageHandlers.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\CustomMessageHandlers\bin\System.Web.Http.WebHost.xml

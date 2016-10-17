@@ -1,0 +1,6 @@
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\bin\Debug\CancellationTokenIntro.exe.config
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\bin\Debug\CancellationTokenIntro.exe
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\bin\Debug\CancellationTokenIntro.pdb
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\obj\Debug\CancellationTokenIntro.csprojResolveAssemblyReference.cache
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\obj\Debug\CancellationTokenIntro.exe
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CancellationTokenIntro\CancellationTokenIntro\obj\Debug\CancellationTokenIntro.pdb

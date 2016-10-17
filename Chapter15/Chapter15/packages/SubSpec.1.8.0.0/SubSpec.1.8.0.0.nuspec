@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SubSpec</id>
+    <version>1.8.0.0</version>
+    <title>SubSpec</title>
+    <authors>Johannes Rudolph,  Phil Haack,  Brad Wilson</authors>
+    <owners>Johannes Rudolph,  Phil Haack,  Brad Wilson</owners>
+    <licenseUrl>http://www.opensource.org/licenses/ms-pl</licenseUrl>
+    <projectUrl>https://bitbucket.org/johannesrudolph/subspec</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>SubSpec allows developers to write declarative BDD style tests operating at all layers of abstraction consisting of highly composable, small primitive concepts. Based on the powerful xUnit testing framework, SubSpec is easy to integrate with existing testing environments.</description>
+    <summary>SubSpec allows developers to write declarative BDD style tests operating at all layers of abstraction consisting of highly composable, small primitive concepts. Based on the powerful xUnit testing framework, SubSpec is easy to integrate with existing testing environments.</summary>
+    <dependencies>
+      <dependency id="xunit" version="1.8.0.0" />
+      <dependency id="xunit.extensions" version="1.8.0.0" />
+    </dependencies>
+  </metadata>
+</package>

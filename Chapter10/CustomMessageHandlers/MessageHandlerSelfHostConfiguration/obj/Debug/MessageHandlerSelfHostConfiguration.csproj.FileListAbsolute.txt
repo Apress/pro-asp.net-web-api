@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\MessageHandlerSelfHostConfiguration.exe.config
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\MessageHandlerSelfHostConfiguration.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\MessageHandlerSelfHostConfiguration.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Web.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Web.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\obj\Debug\MessageHandlerSelfHostConfiguration.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\obj\Debug\MessageHandlerSelfHostConfiguration.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerSelfHostConfiguration\obj\Debug\MessageHandlerSelfHostConfiguration.pdb

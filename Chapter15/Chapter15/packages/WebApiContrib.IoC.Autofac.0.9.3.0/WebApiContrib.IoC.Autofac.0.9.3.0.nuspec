@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>WebApiContrib.IoC.Autofac</id>
+    <version>0.9.3.0</version>
+    <title>WebApiContrib.IoC.Autofac</title>
+    <authors>WebApiContrib Contributors</authors>
+    <owners>WebApiContrib Contributors</owners>
+    <licenseUrl>https://raw.github.com/WebApiContrib/WebApiContrib.IoC.Autofac/master/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/WebApiContrib/WebApiContrib.IoC.Autofac</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The WebApiContrib.IoC.Autofac library provides dependency injection helpers for ASP.NET Web API.</description>
+    <copyright>Copyright © WebApiContrib 2012 - 2013</copyright>
+    <tags>webapi webapicontrib autofac ioc</tags>
+    <dependencies>
+      <dependency id="Autofac" version="2.6.3.862" />
+      <dependency id="Microsoft.AspNet.WebApi.Core" version="4.0.20710.0" />
+    </dependencies>
+  </metadata>
+</package>

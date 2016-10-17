@@ -1,0 +1,13 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\HttpClientFormsAuthSample.Client.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\HttpClientFormsAuthSample.Client.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\obj\Debug\HttpClientFormsAuthSample.Client.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\obj\Debug\HttpClientFormsAuthSample.Client.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientFormsAuthSample\HttpClientFormsAuthSample.Client\obj\Debug\HttpClientFormsAuthSample.Client.pdb

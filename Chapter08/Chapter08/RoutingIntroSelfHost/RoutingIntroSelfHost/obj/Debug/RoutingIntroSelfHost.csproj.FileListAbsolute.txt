@@ -1,0 +1,14 @@
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\RoutingIntroSelfHost.exe.config
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\RoutingIntroSelfHost.exe
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\RoutingIntroSelfHost.pdb
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\Newtonsoft.Json.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Net.Http.Formatting.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Web.Http.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Web.Http.SelfHost.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\Newtonsoft.Json.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Net.Http.Formatting.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Web.Http.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\bin\Debug\System.Web.Http.SelfHost.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\obj\Debug\RoutingIntroSelfHost.csprojResolveAssemblyReference.cache
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\obj\Debug\RoutingIntroSelfHost.exe
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\RoutingIntroSelfHost\RoutingIntroSelfHost\obj\Debug\RoutingIntroSelfHost.pdb

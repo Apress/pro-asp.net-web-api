@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\obj\Debug\MessageHandlerRegistrationOrder.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\MessageHandlerRegistrationOrder.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\MessageHandlerRegistrationOrder.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Web.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Web.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\bin\System.Web.Http.WebHost.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\obj\Debug\MessageHandlerRegistrationOrder.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\MessageHandlerRegistrationOrder\obj\Debug\MessageHandlerRegistrationOrder.pdb

@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\HttpClientConneg.Client.exe.config
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\HttpClientConneg.Client.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\HttpClientConneg.Client.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\obj\Debug\HttpClientConneg.Client.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\obj\Debug\HttpClientConneg.Client.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\obj\Debug\HttpClientConneg.Client.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientConnegSample\HttpClientConneg.Client\bin\Debug\Newtonsoft.Json.xml

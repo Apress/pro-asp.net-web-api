@@ -1,0 +1,1 @@
+<%@ Application Codebehind="Global.asax.cs" Inherits="InvalidModelValidatorProviderSample.Global" Language="C#" %>

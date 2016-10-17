@@ -1,0 +1,49 @@
+﻿@model WebApiDocumentation.Models.ApiModel
+
+@{
+    ViewBag.Title = "API Help";
+}
+
+@section Scripts
+{
+    @Scripts.Render("~/bundles/jqueryui")
+    <script type="text/javascript">
+        // Apply jQuery accordion widget.
+        $(function() { $(".accordion").accordion(); });
+    </script>
+}
+
+<div id="body" class="content-wrapper">
+    <h2>API Help</h2>
+
+    @foreach (var apiDescriptionGroup in Model.GetApis()) {
+        <h3>@apiDescriptionGroup.Key</h3>
+
+        <div class="accordion">
+            @foreach (var api in apiDescriptionGroup) {
+                <h4><a href="#">@api.HttpMethod @api.RelativePath</a></h4>
+                <div>
+                    <p>@api.Documentation</p>
+                    @foreach (var param in api.ParameterDescriptions) {
+                        <p>Parameter: <em>@param.Name</em> (@param.Source): @param.Documentation</p>
+                    }
+                    
+                    @{
+                        string jsonResponse = @Model.GetSampleResponseBody(api, "application/json");
+                        string xmlResponse = @Model.GetSampleResponseBody(api, "text/xml");
+                    }
+                    
+                    @if (jsonResponse != null) {
+                        <h5>application/json Sample response body</h5>
+                        <p><code>@jsonResponse</code></p>
+                    }
+                    
+                    @if (xmlResponse != null) {
+                        <h5>text/xml Sample response body</h5>
+                        <p><code>@xmlResponse</code></p>
+                    }
+                </div>
+            }
+        </div>
+    }
+</div>

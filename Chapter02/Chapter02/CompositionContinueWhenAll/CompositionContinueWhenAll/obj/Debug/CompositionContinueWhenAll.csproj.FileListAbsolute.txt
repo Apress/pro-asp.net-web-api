@@ -1,0 +1,6 @@
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\bin\Debug\CompositionContinueWhenAll.exe.config
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\bin\Debug\CompositionContinueWhenAll.exe
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\bin\Debug\CompositionContinueWhenAll.pdb
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\obj\Debug\CompositionContinueWhenAll.csprojResolveAssemblyReference.cache
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\obj\Debug\CompositionContinueWhenAll.exe
+E:\Dropbox_backup\Apps\Books\ProWebAPI.Samples_github\ProWebAPI.Samples\Chapter02\CompositionContinueWhenAll\CompositionContinueWhenAll\obj\Debug\CompositionContinueWhenAll.pdb

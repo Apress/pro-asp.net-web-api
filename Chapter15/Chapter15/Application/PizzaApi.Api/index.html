@@ -1,0 +1,84 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Pizza Shop API!</title>
+    <link href="Content/site.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div id="body">
+        <section class="featured">
+            <div class="content-wrapper">
+                <hgroup class="title">
+                    <h1>Welcome to ASP.NET Web API Pizza shop!</h1>
+                    <h2>Now you can take pizza orders from customers and manage the orders in this applications.</h2>
+                </hgroup>
+                <p>
+                    This application allows you to create, modify and delete customer orders and used as a sample
+                application for demonstrating unit testing in ASP.NET Web API.
+                </p>
+            </div>
+        </section>
+        <section class="content-wrapper main-content clear-fix">
+            <table>
+                <tr>
+                    <td>
+                        <h2 >
+                            <span data-bind="text: orderTitle"></span>
+                            <a href="javascript:void(0)" data-bind="visible: isUpdateOrderMode, click: cancelUpdate">Cancel</a>                        
+                        </h2>
+                        <div>Customer name</div>
+                        <input type="text" data-bind="value: customerName" />
+                        <input type="button" data-bind="enable: canAdd, css: { disabled: !canAdd() }, click: placeOrder, value: buttonText" />
+                        <ol>
+                            <!-- ko foreach: currentOrderItems -->
+                            <ul>
+                                [<span data-bind="text: quantity"></span>] 
+                    <span data-bind="    text: name, css: { active: quantity }"></span>
+                                <a href="javascript:void(0)" data-bind="click: $parent.up">+</a>
+                                <a href="javascript:void(0)" data-bind="click: $parent.down">-</a>
+                            </ul>
+                            <!-- /ko -->
+                        </ol>
+                    </td>
+                    <td>
+                        <h2>Orders</h2>
+                        <table>
+                            <thead>
+                                <tr>
+                                    <td>Id</td>
+                                    <td>Name</td>
+                                    <td>Price</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <!-- ko foreach: orders -->
+                                <tr class="hvr">
+                                    <td>#<a href="javascript:void(0)" data-bind="text: id, click: $parent.loadOrderForUpdate"></a></td>
+                                    <td><span data-bind="text: customerName"></span></td>
+                                    <td><span data-bind="text: totalPriceFormatted"></span></td>
+                                    <td><a href="javascript:void(0)" data-bind="click: $parent.deleteOrder">x</a></td>
+
+                                </tr>
+                                <!-- /ko -->
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+
+        </section>
+    </div>
+    <script src="Scripts/underscore.js"></script>
+    <script src="Scripts/jquery-2.0.0.js"></script>
+    <script src="Scripts/knockout-2.2.1.debug.js"></script>
+    <script src="Scripts/pizza.js"></script>
+    <script>
+        var viewModel; // declared just for debugging purpose
+        $(function () {
+            viewModel = new ProAspNetWebApi.Samples.UnitTesting.Pizza.MainViewModel();
+            ko.applyBindings(viewModel);
+        });
+    </script>
+</body>
+</html>

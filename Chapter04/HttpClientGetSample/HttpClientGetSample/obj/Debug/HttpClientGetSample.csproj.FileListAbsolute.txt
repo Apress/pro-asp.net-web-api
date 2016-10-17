@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\HttpClientGetSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\HttpClientGetSample.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\System.Net.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\System.Net.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\obj\Debug\HttpClientGetSample.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\obj\Debug\HttpClientGetSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpClientGetSample\HttpClientGetSample\obj\Debug\HttpClientGetSample.pdb

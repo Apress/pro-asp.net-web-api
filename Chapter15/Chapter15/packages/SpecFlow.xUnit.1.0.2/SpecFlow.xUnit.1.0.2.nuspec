@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>SpecFlow.xUnit</id>
+    <version>1.0.2</version>
+    <title>SpecFlow.xUnit</title>
+    <authors>TechTalk</authors>
+    <owners>TechTalk</owners>
+    <licenseUrl>http://specflow.org/about/license.aspx</licenseUrl>
+    <projectUrl>http://www.specflow.org/</projectUrl>
+    <iconUrl>http://techtalk.github.com/SpecFlow/specflow.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Combined package to setup SpecFlow with xUnit easily.</description>
+    <summary>Combined package to setup SpecFlow with xUnit easily.</summary>
+    <tags>specflow xUnit</tags>
+    <dependencies>
+      <dependency id="SpecFlow" />
+      <dependency id="xunit" />
+      <dependency id="xunit.extensions" />
+    </dependencies>
+  </metadata>
+</package>

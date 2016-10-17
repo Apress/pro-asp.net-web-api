@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HttpContentSample", "HttpContentSample\HttpContentSample.csproj", "{B189CFD2-FEDF-4A93-A248-A76A71550E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringContentSample", "StringContentSample\StringContentSample.csproj", "{F75CEDF6-195D-472F-AE79-081A8D093B19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B189CFD2-FEDF-4A93-A248-A76A71550E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B189CFD2-FEDF-4A93-A248-A76A71550E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B189CFD2-FEDF-4A93-A248-A76A71550E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B189CFD2-FEDF-4A93-A248-A76A71550E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F75CEDF6-195D-472F-AE79-081A8D093B19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F75CEDF6-195D-472F-AE79-081A8D093B19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F75CEDF6-195D-472F-AE79-081A8D093B19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F75CEDF6-195D-472F-AE79-081A8D093B19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

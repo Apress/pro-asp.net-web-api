@@ -1,0 +1,13 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\EmptyRequestPipelineMessageHandler.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\EmptyRequestPipelineMessageHandler.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Net.Http.Formatting.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Web.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Web.Http.WebHost.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Net.Http.Formatting.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Web.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\bin\System.Web.Http.WebHost.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\obj\Debug\EmptyRequestPipelineMessageHandler.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter10\CustomMessageHandlers2\EmptyRequestPipelineMessageHandler\obj\Debug\EmptyRequestPipelineMessageHandler.pdb

@@ -1,0 +1,9 @@
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\HttpResponseMessageSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\HttpResponseMessageSample.pdb
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\System.Net.Http.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\System.Net.Http.WebRequest.dll
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\System.Net.Http.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\bin\Debug\System.Net.Http.WebRequest.xml
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\obj\Debug\HttpResponseMessageSample.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\obj\Debug\HttpResponseMessageSample.exe
+C:\Users\Alexander\Documents\GitHub\ProWebAPI.Samples\Chapter04\HttpResponseMessageSample\HttpResponseMessageSample\obj\Debug\HttpResponseMessageSample.pdb

@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApi.Api", "Application\PizzaApi.Api\PizzaApi.Api.csproj", "{269B4FA9-BF86-4FAA-B849-77FD6718BFBA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{E5438A31-30B3-4A58-BFFC-FC6197E51F80}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{E6F2BBED-9B62-4F62-804B-9AF37BE56277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApi.Api.Tests", "UnitTests\PizzaApi.Api.Tests\PizzaApi.Api.Tests.csproj", "{40EBF14F-661C-4F8D-B21B-5ED461A0864F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApi.Domain", "Application\PizzaApi.Domain\PizzaApi.Domain.csproj", "{74F84F4A-EE42-406D-B05F-ED5932D65786}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrationTests", "IntegrationTests", "{FC4644D0-304B-41E9-9D7C-3805F77FB767}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PizzaApi.Api.IntegrationTests", "IntegrationTests\PizzaApi.Api.IntegrationTests\PizzaApi.Api.IntegrationTests.csproj", "{E0A239A0-CAE9-485E-BAEC-318243B214CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{269B4FA9-BF86-4FAA-B849-77FD6718BFBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269B4FA9-BF86-4FAA-B849-77FD6718BFBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269B4FA9-BF86-4FAA-B849-77FD6718BFBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269B4FA9-BF86-4FAA-B849-77FD6718BFBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EBF14F-661C-4F8D-B21B-5ED461A0864F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EBF14F-661C-4F8D-B21B-5ED461A0864F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EBF14F-661C-4F8D-B21B-5ED461A0864F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EBF14F-661C-4F8D-B21B-5ED461A0864F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74F84F4A-EE42-406D-B05F-ED5932D65786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74F84F4A-EE42-406D-B05F-ED5932D65786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74F84F4A-EE42-406D-B05F-ED5932D65786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74F84F4A-EE42-406D-B05F-ED5932D65786}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0A239A0-CAE9-485E-BAEC-318243B214CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A239A0-CAE9-485E-BAEC-318243B214CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A239A0-CAE9-485E-BAEC-318243B214CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A239A0-CAE9-485E-BAEC-318243B214CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{269B4FA9-BF86-4FAA-B849-77FD6718BFBA} = {E5438A31-30B3-4A58-BFFC-FC6197E51F80}
+		{74F84F4A-EE42-406D-B05F-ED5932D65786} = {E5438A31-30B3-4A58-BFFC-FC6197E51F80}
+		{40EBF14F-661C-4F8D-B21B-5ED461A0864F} = {E6F2BBED-9B62-4F62-804B-9AF37BE56277}
+		{E0A239A0-CAE9-485E-BAEC-318243B214CF} = {FC4644D0-304B-41E9-9D7C-3805F77FB767}
+	EndGlobalSection
+EndGlobal

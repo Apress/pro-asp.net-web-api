@@ -1,0 +1,14 @@
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\DefaultValuesSample.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\DefaultValuesSample.pdb
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\Microsoft.Web.Infrastructure.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\Newtonsoft.Json.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Net.Http.Formatting.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Web.Http.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Web.Http.WebHost.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\Newtonsoft.Json.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Net.Http.Formatting.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Web.Http.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\bin\System.Web.Http.WebHost.xml
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\obj\Debug\DefaultValuesSample.csprojResolveAssemblyReference.cache
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\obj\Debug\DefaultValuesSample.dll
+E:\Dropbox\Books\ProWebAPI.Samples\Chapter08\DefaultValuesSample\DefaultValuesSample\obj\Debug\DefaultValuesSample.pdb
